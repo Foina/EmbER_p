@@ -3,7 +3,7 @@
 
 ### Repository Structure
 ```text
-├── ERCR.ipynb                   # Main notebook implementing the proposed EmbER_p method
+├── EmbER+.ipynb                 # Main notebook implementing the proposed EmbER+ method
 ├── baselines                    # Baseline methods
 ├── IE.zip                       # Ireland dataset
 ├── NI.zip                       # Northern Ireland dataset
