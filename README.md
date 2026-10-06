@@ -1,9 +1,9 @@
-# ERCR: Enriched Entity Representations for Comparison and Ranking in Text-Rich Knowledge Graphs
+# EmbER+: Type-Aware Entity Embeddings for Similarity and Ranking in Text-Rich Knowledge Graphs
 
 
 ### Repository Structure
 ```text
-├── ERCR.ipynb                   # Main notebook implementing the proposed ERCR method
+├── ERCR.ipynb                   # Main notebook implementing the proposed EmbER_p method
 ├── baselines                    # Baseline methods
 ├── IE.zip                       # Ireland dataset
 ├── NI.zip                       # Northern Ireland dataset
